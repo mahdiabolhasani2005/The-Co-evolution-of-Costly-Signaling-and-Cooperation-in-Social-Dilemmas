@@ -1,9 +1,8 @@
-# Simulation outputs
 *.csv
 *.png
 *.gif
+*.npz
 
 # Python
 __pycache__/
 *.pyc
-*.npz
