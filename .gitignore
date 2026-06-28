@@ -1,1 +1,9 @@
+# Simulation outputs
+*.csv
+*.png
 *.gif
+
+# Python
+__pycache__/
+*.pyc
+*.npz
